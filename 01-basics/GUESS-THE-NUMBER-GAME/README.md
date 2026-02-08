@@ -27,3 +27,6 @@ until the correct number is guessed.
 
 ## How to Run
 “This project can be run locally using Python.”
+
+```bash
+python main.py
