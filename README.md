@@ -90,7 +90,7 @@ Some projects are simple, some are challenging — all of them contribute to my 
 ## 🔗 Connect With Me
 
 * GitHub: [https://github.com/ppraju7709]
-* LinkedIn: [www.linkedin.com/in/prajakta-p-8a6994328]
+* LinkedIn: [www.linkedin.com/in/prajaktap8866]
 
 ---
 
