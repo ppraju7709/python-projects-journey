@@ -15,7 +15,6 @@ until the correct number is guessed.
 - Conditional Statements (`if`, `else`)
 - Loops (`while`)
 - `random` module
-- 
 ---
 
 ## How the Game Works
@@ -27,5 +26,4 @@ until the correct number is guessed.
 ---
 
 ## How to Run
-```bash
-python main.py
+“This project can be run locally using Python.”
