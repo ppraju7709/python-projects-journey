@@ -1,66 +1,38 @@
-# Simple Calculator (Python)
+# Simple Calculator 🧮
 
-This is a basic Python program that works as a simple calculator.
-It can perform addition, subtraction, multiplication, and division.
+## Description
+This project is a Python-based calculator that performs basic arithmetic
+operations along with a few advanced mathematical operations.
 
-This project is suitable for beginners.
+The user selects an operation, enters two numbers, and the calculator
+displays the result.
 
 ---
 
 ## Features
-- User chooses the operation
-- Takes two numbers as input
-- Displays the result
+- Addition (`+`)
+- Subtraction (`-`)
+- Multiplication (`*`)
+- Division (`/`)
+- Modulus (`%`)
+- Floor Division (`//`)
+- Exponentiation (`**`)
+- Menu-driven user input
 
 ---
 
-## Language Used
-- Python
-
----
-
-## Files
-calculator.py
-README.md
+## Concepts Used
+- Variables and Data Types
+- User Input and Output
+- Conditional Statements (`if-elif-else`)
+- Arithmetic Operators
+- Loops (optional)
+- Basic Error Handling
 
 ---
 
 ## How to Run
-
 This project can be run locally using Python.
 
-Steps:
-1. Open terminal or command prompt
-2. Go to the project folder
-3. Run the command:
-
-python calculator.py
-
----
-
-## Example Output
-
-Welcome to 'Simple Calculator'
-Perform the operations as follows
-Enter the first no:-45
-Enter operation ( + , - , * , / , % , ** , // ):-+
-Enter the second no:-10
-Result = 55.0
----
-
-## Concepts Used
-- input()
-- if-elif-else
-- basic arithmetic operators
-    **1. Addition  
-    2. Subtraction  
-    3. Multiplication  
-    4. Division
-    5. Modulus
-    6. Floor Division
-    7. Exponential**
-
----
-
-## Level
-Beginner / Basics Project
+```bash
+python main.py
